@@ -8,6 +8,8 @@ Full-Stack Developer with experience using PostgreSQL, Node, Express, React to b
 
 I'm internally motivated and always eager to improve: learned to code through Udemy, Thinkful. My management and industry experience means I understand business decisions and organizations. My journey into coding means I'm ready to dive right into new skills and learn as I go!
 
+[Resume](https://docs.google.com/document/d/1tD22wXGa1pzO16-LC4XERyrBOHu2yxy4/edit?usp=sharing&ouid=106326643934775284457&rtpof=true&sd=true)
+
 ---
 
 🧰 ToolBox
@@ -17,4 +19,3 @@ I'm internally motivated and always eager to improve: learned to code through Ud
 
 ---
 
-[Resume](https://docs.google.com/document/d/1tD22wXGa1pzO16-LC4XERyrBOHu2yxy4/edit?usp=sharing&ouid=106326643934775284457&rtpof=true&sd=true)
