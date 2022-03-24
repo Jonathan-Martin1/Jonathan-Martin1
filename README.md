@@ -17,4 +17,4 @@ I'm internally motivated and always eager to improve: learned to code through Ud
 
 ---
 
-##[Resume](https://link-url-here.org)
+[Resume](https://docs.google.com/document/d/1tD22wXGa1pzO16-LC4XERyrBOHu2yxy4/edit?usp=sharing&ouid=106326643934775284457&rtpof=true&sd=true)
